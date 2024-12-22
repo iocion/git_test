@@ -13,3 +13,4 @@ def find_max_min(lst):
 numbers = [3, 5, 1, 9, 2]
 max_val, min_val = find_max_min(numbers)
 print(f"最大值: {max_val}, 最小值: {min_val}")
+print("test")
